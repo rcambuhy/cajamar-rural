@@ -119,12 +119,12 @@ textarea:focus {
 }
 
 #contact .container {
-    display: block;
+    display: flex;
+    justify-content: center;
 }
 
 .social-links li {
     display: inline;
-    text-align: center;
 }
 
 footer .container,
